@@ -1,0 +1,77 @@
+{
+  "name": "Конструктор Открыток",
+  "short_name": "Открытки",
+  "description": "Конструктор поздравительных открыток с полной кастомизацией",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6b6b",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎨</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["entertainment", "productivity", "graphics"],
+  "shortcuts": [
+    {
+      "name": "Создать открытку",
+      "short_name": "Создать",
+      "description": "Создать новую открытку",
+      "url": "/?action=new"
+    },
+    {
+      "name": "Мои проекты",
+      "short_name": "Проекты",
+      "description": "Открыть сохраненные проекты",
+      "url": "/?action=projects"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
